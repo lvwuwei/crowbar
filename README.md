@@ -1,4 +1,4 @@
-## Crowbar - Brute forcing tool
+## Crowbar - Brute forcing tool  like hydra cracker passwd 
 
 ### What is Crowbar?
 
